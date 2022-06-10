@@ -1,3 +1,4 @@
-x = 43
 
-print(x%2)
+y = 24
+
+print(y%2)
